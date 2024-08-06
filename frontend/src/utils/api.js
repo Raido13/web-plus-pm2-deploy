@@ -139,7 +139,7 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.raido.nomorepartiesco.ru/');
+  const api = new Api('https://api.raido.nomorepartiesco.ru');
   
   export default api;
   
