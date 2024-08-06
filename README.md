@@ -1,3 +1,4 @@
 # Деплой приложения на сервер с использованием pm2
-
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+backend: https://api.raido.nomorepartiesco.ru/
+frontend: https://raido.nomorepartiesco.ru/
+ip: 51.250.47.39
